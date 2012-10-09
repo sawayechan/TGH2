@@ -1,4 +1,4 @@
-﻿<%@ page title="Change Password" language="VB" masterpagefile="~/Site.Master" autoeventwireup="false" inherits="Account_ChangePassword, App_Web_jqya2hm0" %>
+﻿<%@ page title="Change Password" language="VB" masterpagefile="~/Site.Master" autoeventwireup="false" inherits="Account_ChangePassword, App_Web_iudzj1ws" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>

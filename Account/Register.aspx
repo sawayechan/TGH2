@@ -1,4 +1,4 @@
-﻿<%@ page title="Register" language="VB" masterpagefile="~/Site.Master" autoeventwireup="false" inherits="Account_Register, App_Web_jqya2hm0" %>
+﻿<%@ page title="Register" language="VB" masterpagefile="~/Site.Master" autoeventwireup="false" inherits="Account_Register, App_Web_iudzj1ws" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>
